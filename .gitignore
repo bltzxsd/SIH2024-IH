@@ -1,0 +1,13 @@
+*
+
+!pdd/
+!pdd/docs/
+!pdd/pdd
+!pdd/requirements.txt
+!pdd/notebooks/
+
+!.gitignore
+!LICENSE:
+!*.md
+
+

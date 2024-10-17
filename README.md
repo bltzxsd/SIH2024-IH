@@ -1,2 +1,3 @@
 # SIH2024-IH
-Repository for SIH 2024 Internal Hackathon
+Mono Repository for SIH 2024 Internal Hackathon
+

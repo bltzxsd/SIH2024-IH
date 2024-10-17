@@ -1,0 +1,6 @@
+numpy
+pipreqs
+tensorflow
+fastapi
+tensorflow-addons
+tensorflow-model-optimizations
