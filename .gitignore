@@ -2,6 +2,8 @@
 
 !pdd/
 !pdd/docs/
+!pdd/docs/ARCHITECTURE.md
+!pdd/docs/DOCS.md
 !pdd/pdd
 !pdd/requirements.txt
 !pdd/notebooks/
@@ -9,5 +11,5 @@
 !.gitignore
 !LICENSE:
 !*.md
-
+!README.md
 
